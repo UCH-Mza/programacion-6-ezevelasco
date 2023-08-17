@@ -1,0 +1,14 @@
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/csharp-p6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/csharp-p6.AssemblyInfoInputs.cache
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/csharp-p6.AssemblyInfo.cs
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/csharp-p6.csproj.CoreCompileInputs.cache
+/Users/slingr/Desktop/csharp-p6/bin/Debug/net7.0/csharp-p6
+/Users/slingr/Desktop/csharp-p6/bin/Debug/net7.0/csharp-p6.deps.json
+/Users/slingr/Desktop/csharp-p6/bin/Debug/net7.0/csharp-p6.runtimeconfig.json
+/Users/slingr/Desktop/csharp-p6/bin/Debug/net7.0/csharp-p6.dll
+/Users/slingr/Desktop/csharp-p6/bin/Debug/net7.0/csharp-p6.pdb
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/csharp-p6.dll
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/refint/csharp-p6.dll
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/csharp-p6.pdb
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/csharp-p6.genruntimeconfig.cache
+/Users/slingr/Desktop/csharp-p6/obj/Debug/net7.0/ref/csharp-p6.dll

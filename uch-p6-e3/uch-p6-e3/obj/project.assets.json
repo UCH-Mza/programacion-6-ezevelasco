@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/slingr/Desktop/programacion-6-ezevelasco/uch-p6-e2/uch-p6-e2/uch-p6-e2.csproj",
-      "projectName": "uch-p6-e2",
-      "projectPath": "/Users/slingr/Desktop/programacion-6-ezevelasco/uch-p6-e2/uch-p6-e2/uch-p6-e2.csproj",
+      "projectUniqueName": "/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/uch-p6-e3.csproj",
+      "projectName": "uch-p6-e3",
+      "projectPath": "/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/uch-p6-e3.csproj",
       "packagesPath": "/Users/slingr/.nuget/packages/",
-      "outputPath": "/Users/slingr/Desktop/programacion-6-ezevelasco/uch-p6-e2/uch-p6-e2/obj/",
+      "outputPath": "/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/slingr/.nuget/NuGet/NuGet.Config"

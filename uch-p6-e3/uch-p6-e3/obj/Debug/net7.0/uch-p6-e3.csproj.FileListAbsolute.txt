@@ -1,0 +1,14 @@
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/bin/Debug/net7.0/uch-p6-e3
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/bin/Debug/net7.0/uch-p6-e3.deps.json
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/bin/Debug/net7.0/uch-p6-e3.runtimeconfig.json
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/bin/Debug/net7.0/uch-p6-e3.dll
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/bin/Debug/net7.0/uch-p6-e3.pdb
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/uch-p6-e3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/uch-p6-e3.AssemblyInfoInputs.cache
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/uch-p6-e3.AssemblyInfo.cs
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/uch-p6-e3.csproj.CoreCompileInputs.cache
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/uch-p6-e3.dll
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/refint/uch-p6-e3.dll
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/uch-p6-e3.pdb
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/uch-p6-e3.genruntimeconfig.cache
+/Users/slingr/Projects/uch-p6-e3/uch-p6-e3/obj/Debug/net7.0/ref/uch-p6-e3.dll

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{00A74B1A-CF31-405D-A294-0A7AAFF7E1E5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="uch-p6-e3/Program.cs">
+    <Files>
+      <File FileName="uch-p6-e3/Program.cs" Line="58" Column="34" />
+      <File FileName="uch-p6-e3/Partida.cs" Line="19" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="uch-p6-e3" expanded="True" selected="True">
+            <Node name="uch-p6-e3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.uch-p6-e3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
